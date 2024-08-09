@@ -1,0 +1,30 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-slack-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-slack-course"
+  },
+  "course_title": "ibrahim-slack-course",
+  "hide_download": false,
+  "course_description": "**ibrahim-slack-course**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ibrahim-slack-course",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "235f5c21-cd45-4cb5-a8ff-c6ee76b36baf",
+  "site_short_id": "ibrahim-slack-course"
+}
